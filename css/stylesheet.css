@@ -1,0 +1,37 @@
+.hudeez-jumbotron {
+  background-image: url('../images/background_01_daylight_final.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 350px;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+}
+
+.hudeez-jumbotron-sm {
+  background-image: url('../images/background_01_daylight_final-sm.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 200px;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+}
+
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
+
+.margin-bottom-40 {
+  margin-bottom: 40px;
+}
+
+.margin-bottom-60 {
+  margin-bottom: 60px;
+}
+
+.margin-top-10 {
+  margin-top: 10px;
+}
