@@ -1,5 +1,5 @@
 .hudeez-jumbotron {
-  background-image: url('../images/background_01_daylight_final.jpg');
+  background-image: url('../images/logo_banner.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   min-height: 350px;
@@ -10,7 +10,7 @@
 }
 
 .hudeez-jumbotron-sm {
-  background-image: url('../images/background_01_daylight_final-sm.jpg');
+  background-image: url('../images/logo_banner_sm.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   min-height: 200px;
